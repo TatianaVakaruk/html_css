@@ -4,6 +4,9 @@ a[href][target="_blank"]{
 ul{
     background-color: yellow;
 }
+ol{
+    background-color:yellow;
+}
 footer, header{
     border:3px dashed blue;
 }
