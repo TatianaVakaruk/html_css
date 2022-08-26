@@ -9,9 +9,7 @@
 .already-learned code{
 background-color:orange;
 }
-.already-learned >h4>code{
-    background-color:orange;
-    }
+
 .to-be-learned code{
     background-color:green;
 }
