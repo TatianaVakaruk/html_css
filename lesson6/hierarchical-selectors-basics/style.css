@@ -2,11 +2,11 @@ li{
     margin-bottom:16px;
 
 }
-ol li>span{
+ol li{
     background-color:green;
     color:white;
 }
-ul li>span{
+ul li{
     background-color:orange;
     color:white;
 }
