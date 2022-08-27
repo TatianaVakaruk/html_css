@@ -12,7 +12,7 @@ border:3px solid red;
 .anchor:hover{
     font-size:24px;
 }
-.some-button:disable{
+.some-button[disabled]{
     border:2px dashed grey;
 }
 .some-button[disabled]:hover{
