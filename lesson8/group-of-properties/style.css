@@ -1,0 +1,17 @@
+.rectangle{
+    width:420px;
+    height:140px;
+    box-sizing:border-box;
+    padding:20px;
+    background-color:bisque;
+    border-width:10px 20px;
+    border-top-style:solid;
+    border-right-style: solid;
+    border-bottom-style: dashed;
+    border-left-style: dashed;
+    border-top-color: firebrick;
+    border-right-color: chartreuse;
+    border-bottom-color: burlywood;
+    border-left-color: aqua;
+margin:50px 100px;
+}
