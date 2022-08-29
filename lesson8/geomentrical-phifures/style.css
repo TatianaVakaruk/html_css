@@ -20,10 +20,9 @@
     background-color: aquamarine;
 }
 .triangle{
-   width:0px;
-   height:0px;
+   width:100px;
+   height:100px;
    margin:50px;
-   border-right:50px solid transparent;
-   border-left:50px solid transparent;
-   border-top: 50px solid brown;
+   border:50px solid transparent;
+   border-top-color:  brown;
  }
