@@ -1,3 +1,6 @@
+*{
+    box-sizing:border-box;
+}
 .rectangle{
     background-color: forestgreen;
     margin:50px;
@@ -20,9 +23,10 @@
     background-color: aquamarine;
 }
 .triangle{
-   width:50px;
+   width:100px;
    height:100px;
    margin:50px;
-   border:75px solid transparent;
-   border-top-color:  brown;
+   border:50px solid transparent;
+   border-top-color:brown;  
+     
  }
