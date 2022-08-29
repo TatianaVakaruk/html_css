@@ -1,7 +1,7 @@
 .rectangle{
     width:420px;
     height:140px;
-    box-sizing:border-box;
+    box-sizing:content-box;
     padding:20px;
     background-color:bisque;
     border-width:10px 20px;
