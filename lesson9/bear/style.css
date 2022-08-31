@@ -25,10 +25,10 @@
     text-decoration:none;
     display:inline-block;
      margin-left:16px;
-     /*position:relative;
-     bottom:7px;*/
+     position:relative;
+     bottom:7px;
      color:white;
- vertical-align: middle;
+ 
 }
 .content{
     background-color: beige;
