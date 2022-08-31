@@ -17,7 +17,7 @@
 }
 .nav-list{
     list-style: none;
-    display:table-cell;
+    
     
 }
 .nav-item{
@@ -25,9 +25,8 @@
     display:inline-block;
      margin-left:16px;
      color:white;
+ line-height:45px;
  
-  
-vertical-align:middle;
     
 }
 .content{
