@@ -12,10 +12,10 @@
     
         
 }
-/navigation{
+/*navigation{
  /*  height:40px;*/
- vertical-align: middle;
-}
+/* vertical-align: middle;
+}*/
 .nav-list{
     margin:0;
     list-style: none;
@@ -75,11 +75,11 @@
 .eye_right{
     position:relative;
    left:35px;
-   bottom:50px;
+   bottom:40px;
    z-index:1;
 }
 .eye_left{
     position:relative;
-    bottom:79px;
+    bottom:70px;
     left:132px;
 }
