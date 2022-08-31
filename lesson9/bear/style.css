@@ -12,22 +12,23 @@
     
         
 }
-.navigation{
-   height:40px;
+/navigation{
+ /*  height:40px;*/
+ vertical-align: middle;
 }
 .nav-list{
     list-style: none;
-    
+    height:40px;
     
 }
 .nav-item{
     text-decoration:none;
     display:inline-block;
      margin-left:16px;
+     position:relative;
+     bottom:6px;
      color:white;
- line-height:45px;
- 
-    
+ /*vertical-align: middle;*/
 }
 .content{
     background-color: beige;
