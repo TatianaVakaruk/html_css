@@ -75,11 +75,13 @@
 .eye_right{
     position:relative;
    left:35px;
-   bottom:40px;
+   bottom:37px;
+
+   
    z-index:1;
 }
 .eye_left{
     position:relative;
-    bottom:70px;
+    bottom:67px;
     left:132px;
 }
