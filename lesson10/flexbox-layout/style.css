@@ -3,11 +3,14 @@
     background-color:yellow;
     display:flex;
     align-items:center;
+    
+    margin:0;
 }
 .navigation{
     margin:0;
     display:flex;
     list-style-type: none;
+    
 }
 .navigatiom_item{
     margin-right:16px;
@@ -36,8 +39,7 @@
 .news_content{
     display:flex;
     justify-content: center;
-   margin-bottom:16px;
-   margin-top:16px;
+   
 }
 
 .three{
