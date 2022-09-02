@@ -48,10 +48,11 @@
   flex-direction: column;
   height:40px;
     margin:0;
+    justify-content: center;
    /*list-style-type: none;*/
 }
 .one{
-        margin-right:16px;
+        margin-left:16px;
         margin-bottom:16px;
 }
 .footer{
