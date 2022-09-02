@@ -35,12 +35,14 @@
 .news{
     width:200px;
     background-color:grey;
-   
+    justify-content: center;
+    margin-top:16px;
+
 }
 .news_content{
     display:flex;
-    justify-content: center;
-   margin-bottom:16px;
+    
+   justify-content: center;
 }
 
 .three{
@@ -49,12 +51,13 @@
   height:40px;
     margin:0;
     justify-content: center;
+margin-top:16px;
    /*list-style-type: none;*/
 }
 .one{
         margin-left:16px;
         margin-top:16px;
-}
+     }
 .footer{
     height:40px;
     background-color:green;
