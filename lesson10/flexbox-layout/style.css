@@ -51,7 +51,7 @@
   flex-direction: column;
   height:40px;
     margin:0;
-    justify-content:center;
+    justify-content:space-between;
 
    /*list-style-type: none;*/
 }
