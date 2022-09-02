@@ -40,7 +40,7 @@
 .news_content{
     display:flex;
     justify-content: center;
-   margin:16px 0px;
+   margin-bottom:16px;
 }
 
 .three{
