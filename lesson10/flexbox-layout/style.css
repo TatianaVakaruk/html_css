@@ -36,12 +36,12 @@
     width:200px;
     background-color:grey;
     justify-content: center;
-    margin-top:16px;
+    
 
 }
 .news_content{
     display:flex;
-    
+    margin-top:16px;
    justify-content: center;
 }
 
