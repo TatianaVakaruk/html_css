@@ -45,13 +45,16 @@
    justify-content: center;
    margin:0;
 }
+.news_content> h2{
+margin:16px 0px;
+}
 
 .three{
   display:flex;
   flex-direction: column;
   height:40px;
     margin:0;
-    margin-top:18px;
+   
 justify-content: center;
    /*list-style-type: none;*/
 }
