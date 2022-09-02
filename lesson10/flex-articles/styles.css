@@ -6,15 +6,15 @@ h1{
 }
 .articles-list{
     display:flex;
-    flex-wrap:wrap;
-    margin:8px;
+    flex-wrap: wrap;
+   
 }
 .article{
     margin:8px;
     padding:16px;
     background-color:bisque;
-    flex-basis: 300px;
-    flex-grow:1;
-    flex-shrink: 1;
+    flex-basis: 100px;
+    flex-grow: 1;
+    
    
 }
