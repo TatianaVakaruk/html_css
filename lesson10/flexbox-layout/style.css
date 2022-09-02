@@ -51,7 +51,7 @@
   flex-direction: column;
   height:40px;
     margin:0;
-    justify-content:space-between;
+    justify-content:space-around;
 
    /*list-style-type: none;*/
 }
