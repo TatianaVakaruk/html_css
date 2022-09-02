@@ -9,11 +9,12 @@
 .navigation{
     margin:0;
     display:flex;
-    list-style-type: none;
+   /* list-style-type: none;*/
     
 }
 .navigatiom_item{
     margin-right:16px;
+    
 }
 .page{
     display:flex;
