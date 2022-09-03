@@ -1,6 +1,4 @@
-*{
-    box-sizing:border-box;
-}
+
 .dropdown{
     margin:16px;
 
@@ -22,7 +20,7 @@
 }
 .menu-list{
    display:none;
-    min-width:160px;
+    min-width:120px;
     z-index:1;
     list-style-type: none;
    position:absolute;
