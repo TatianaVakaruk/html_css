@@ -20,12 +20,8 @@
     
 }
 
-body{
-    display:block;
-    padding:0;
-    margin:0;
-    
-}
+
 .text:hover span{
     display:block;
+    
 }
