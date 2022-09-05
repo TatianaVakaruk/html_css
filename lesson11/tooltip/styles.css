@@ -3,7 +3,7 @@
 }
 .text{
     margin:16px;
-    border-bottom: 1px dotted black;
+ border-bottom: 1px dotted black;
     position:relative;
     display:inline-block;
     
@@ -13,7 +13,7 @@
     color:white;
     border-radius: 4px;
     padding:8px;
-    position:relative;
+    position:absolute;
     bottom:-40px;
     display:none;
     
