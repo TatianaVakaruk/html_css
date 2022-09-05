@@ -1,11 +1,16 @@
-html{
+section{
     margin:32px;
+}
+html{
+    
     font-family: Roboto, sans-serif;
     font-size:18px;
 }
 h1{
 word-spacing: 20px;
-text-align:center;
+display:flex;
+justify-content: center;
+align-items: center;
 text-transform: uppercase;
 }
 p{
