@@ -3,11 +3,11 @@
     height:500px;
     background-image:url(nature.jpeg);
     background-position:center;
-    background-size:contain;
+    background-size:cover;
     background-repeat: no-repeat;
     text-align:center;
     font-size:32px;
-    color:white;
+    color:#FFF;
     padding-top:32px;
     font-weight: 700;
     background-clip:border-box;
