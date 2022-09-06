@@ -10,7 +10,8 @@
     color:#FFF;
     padding-top:32px;
     font-weight: 700;
-    
+    background-clip:border-box;
+    margin:auto;
 }
 *{
     box-sizing: border-box;
