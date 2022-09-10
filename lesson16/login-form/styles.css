@@ -53,6 +53,6 @@ body{
     color:white;
     border-radius: 4px;
 }
-input:invalid:not(:placeholder-shown) {
+input:invalid {
     border: 3px solid #ff0000;
 }
