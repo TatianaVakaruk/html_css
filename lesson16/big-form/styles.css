@@ -1,0 +1,16 @@
+form{
+    margin:32px;
+    display:inline-block;
+}
+input{
+    margin:8px;
+    display:inline-block;
+}
+textarea{
+    margin:8px;
+    display:inline-block;
+}
+select{
+    margin:8px;
+    display:inline-block;
+}
