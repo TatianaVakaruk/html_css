@@ -2,11 +2,11 @@
     box-sizing: border-box;
     
 }
-body{
+/*body{
     background-color:bisque;
     position:relative;
     
-}
+}*/
 
 .login-form{
     background-color:aqua;
@@ -19,7 +19,7 @@ body{
 .page{
     background-color:bisque;
  display:flex;
- ;
+ height:100hv;
  font-family: monospace;
   font-size:16px;
    }
