@@ -5,19 +5,7 @@ form{
     margin:32px;
     display:inline-block;
 }
-input{
+div{
     margin:8px;
-    display:inline-block;
-}
-textarea{
-    margin:8px;
-    display:inline-block;
-}
-select{
-    margin:8px;
-    display:inline-block;
-}
-option{
-    margin:8px;
-    display:inline-block;
+    
 }
