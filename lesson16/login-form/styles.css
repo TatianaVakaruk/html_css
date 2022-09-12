@@ -2,11 +2,7 @@
     box-sizing: border-box;
     
 }
-body{
-    background-color:bisque;
-    position:relative;
-    
-}
+
 
 .login-form{
     background-color:aqua;
