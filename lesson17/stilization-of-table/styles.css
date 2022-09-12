@@ -9,7 +9,7 @@ table{
 td, th{
     padding:4px;
     text-align:right;
-    line-height:40px;
+    
     padding:4px;
 }
 table, td, th{
@@ -33,5 +33,8 @@ tfoot{
     font-weight: 700;
 }
 caption{
-    margin:8px;
+    margin-bottom:8px;
+}
+tr{
+    height:40px;
 }
