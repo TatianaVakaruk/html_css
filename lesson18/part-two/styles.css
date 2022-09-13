@@ -1,0 +1,19 @@
+.container{
+    display:flex;
+    justify-content: space-around;
+}
+#one{
+    font-size:16px;
+}
+#two{
+    font-size:32px;
+}
+#three{
+    font-size:64px;
+}
+#four{
+    font-size:128px;
+}
+#five{
+    font-size:256px;
+}
