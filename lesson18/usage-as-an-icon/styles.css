@@ -15,12 +15,12 @@
 .custom-button:hover {
     color:darkcyan;
 }
-.bird {
+.bird-icon {
     width:32px;
     height:32px;
     fill: white;
     vertical-align:middle;
 }
-.custom-button:hover > .bird{
+.custom-button:hover > .bird-icon{
     fill:green;
 }
