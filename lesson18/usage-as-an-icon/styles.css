@@ -21,6 +21,6 @@
     fill: white;
     vertical-align:middle;
 }
-.bird:hover{
+.custom-button:hover > .bird{
     fill:green;
 }
