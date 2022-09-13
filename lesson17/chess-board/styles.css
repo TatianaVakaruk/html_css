@@ -31,7 +31,7 @@ tr:nth-child(2)>td:nth-child(1){
 }
 tr:nth-child(2)>td:last-child{
     border:none;
-    color:white;
+    background-color:white;
 }
 tr:nth-child(3)>td:nth-child(even){
     background-color:black;
