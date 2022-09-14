@@ -26,6 +26,6 @@ animation-fill-mode: forwards;
     }
     to{
         top: calc(50vh - 50px);
-        left: calc(50vw);
+        left: calc(50vw - 125px);
     }
 }
