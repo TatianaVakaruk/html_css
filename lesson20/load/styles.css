@@ -7,6 +7,7 @@
 }
 .spinner{
     margin:auto;
+    text-align:center;
 }
 .spinner-text{
     font-family: monospace;
