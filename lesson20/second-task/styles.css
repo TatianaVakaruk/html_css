@@ -16,7 +16,7 @@ body{
     animation:jump 0.4s 0.5 ease-in-out, 
     spin 0.5s ease-in-out,
     hide 1s 2s ease forwards;
-    font-size:11px;
+    font-size:16px;
 }
 @keyframes jump{
     0%{
