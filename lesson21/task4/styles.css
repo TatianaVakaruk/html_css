@@ -65,10 +65,7 @@ font-weight: 700;
 }
 .nav-list-item{
     background-color:#808080;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    display:block;
+   
     line-height:2em;
     margin-bottom:0.5em;
     color:white;
@@ -81,6 +78,7 @@ font-weight: 700;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    display:block;
 }
 .units-list{
     line-height:1.75em;
