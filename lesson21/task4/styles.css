@@ -65,7 +65,10 @@ font-weight: 700;
 }
 .nav-list-item{
     background-color:#808080;
-   
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    
     line-height:2em;
     margin-bottom:0.5em;
     color:white;
