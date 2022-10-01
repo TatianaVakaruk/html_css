@@ -76,7 +76,8 @@ font-weight: 700;
 .nav-list-link{
     text-decoration:none;
     color:white;
-   padding:0.5em 0;
+   padding-right:0.5em;
+   padding-left:0.5em;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
