@@ -108,7 +108,7 @@ img{
     width:100vw;
 }
 .section{
-    min-width:100vw;
+    width:100vw;
 }
 .news{
     width:100vw;
@@ -131,4 +131,21 @@ img{
    .news{
     width:100vw;
    }
+}
+@media screen and (min-width:1200px){
+    .one{
+        display:flex;
+    }
+    .main{
+        display:flex;
+    }
+    .navigation{
+        width:20vw;
+    }
+    .section{
+        width:60vw;
+    }
+    .news{
+        width:20vw;
+    }
 }
