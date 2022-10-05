@@ -4,3 +4,7 @@ picture{
     justify-content: center;
     max-width:100%;
 }
+
+*{
+box-sizing:border-box;
+}
