@@ -2,9 +2,11 @@
 picture{
     display:flex;
     justify-content: center;
-    max-width:100%;
 }
 
 *{
 box-sizing:border-box;
+}
+img{
+    max-width:100%;
 }
