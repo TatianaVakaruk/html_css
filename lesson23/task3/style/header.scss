@@ -22,6 +22,11 @@
         
         &_active{
             color:yellow;
+            padding-left:8px;
+            padding-right:8px;
+            padding-top:15px;
+        padding-bottom:15px;
+        padding-top:15px;
         }
         &_active:hover> .submenu{
             
@@ -40,8 +45,8 @@
         background-color: #9acd32;
         cursor:pointer;
        
-      /* padding-bottom:15px;
-        padding-top:15px;*/
+       
+      
     }
 
 }
