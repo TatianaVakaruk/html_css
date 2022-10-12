@@ -13,38 +13,36 @@ html {
 }
 
 .menu {
-  margin-left: 3em;
-  padding-top: 0;
-  padding-bottom: 0;
-  margin-top: 0;
-  margin-bottom: 0;
+  padding: 0;
+  padding-left: 3em;
+  margin: 0;
   display: flex;
-  line-height: 3em;
   list-style-type: none;
 }
 .menu__item {
   text-transform: uppercase;
+  line-height: 3em;
   color: white;
   cursor: pointer;
 }
 .menu__item_active {
   color: yellow;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 .menu__item_active:hover > .submenu {
   visibility: visible;
   cursor: pointer;
 }
 .menu__item-text {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 16px;
+  padding-bottom: 16px;
   padding-left: 8px;
   padding-right: 8px;
 }
 .menu__item-text:hover {
   background-color: #9acd32;
   cursor: pointer;
-  /* padding-bottom:15px;
-    padding-top:15px;*/
 }
 
 .submenu {
@@ -59,7 +57,7 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  visibility: hidden;
+  display: none;
 }
 .submenu__item {
   padding-left: 8px;
