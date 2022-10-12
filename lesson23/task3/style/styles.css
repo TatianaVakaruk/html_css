@@ -28,7 +28,7 @@ html {
   color: yellow;
 }
 .menu__item_active:hover > .submenu {
-  visibility: visible;
+  display: block;
   cursor: pointer;
 }
 .menu__item-text {
