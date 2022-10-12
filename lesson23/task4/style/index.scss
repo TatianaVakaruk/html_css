@@ -1,0 +1,12 @@
+@import 'layout.scss';
+@include for-media{
+    .products{
+        display:flex;
+        flex:2 2;
+      }  
+}
+@include for-large{
+    .contant{
+        display:flex;
+    }
+}
